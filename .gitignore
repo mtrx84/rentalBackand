@@ -1,0 +1,13 @@
+node_modules
+.env
+.vscode
+cotout.txt
+cotout
+public/uploads/*
+dodatki/hermes
+public/img
+public/nowosci
+public/promocje-b2b
+excel
+dodatki
+/b2b
