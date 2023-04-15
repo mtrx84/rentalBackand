@@ -10,7 +10,7 @@ The project helps to order construction equipment rental. It shows the offer of 
 
 ## Appendix
 
-[Frontend repo](https://wypozyczalnia.wrobud.usermd.net)
+[Frontend repo](https://github.com/mtrx84/rentalFrontend.git)
 
 
 ## Tech Stack
