@@ -8,6 +8,10 @@ The project helps to order construction equipment rental. It shows the offer of 
 
 [Strona testowa / Test page](https://wypozyczalnia.wrobud.usermd.net)
 
+## Appendix
+
+[Frontend repo](https://wypozyczalnia.wrobud.usermd.net)
+
 
 ## Tech Stack
 
